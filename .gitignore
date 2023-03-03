@@ -31,3 +31,5 @@ _ReSharper*/
 packages/
 Lib/
 Scripts/
+.vscode/
+_pycache_
